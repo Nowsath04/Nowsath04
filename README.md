@@ -7,15 +7,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nowsath04&label=Profile%20views&color=0e75b6&style=flat" alt="Nowsath04" /> </p>
 
-- 🌱 I’m currently learning **Node Js**
+- 🌱 I’m currently learning **MERN (Advance)**
 
 - 👨‍💻 All of my projects are available at [nowsathnichu@gmail.com](nowsathnichu@gmail.com)
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about anything, I am always happy to help
 
-- 📫 How to reach me **nowsathnichu@gmail.com**
+- 📫 reach me on **nowsathnichu@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ **I ❤ Video Games**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
