@@ -1,7 +1,7 @@
 ![MasterHead](http://eratraders.com.sg/wp-content/uploads/2019/11/coming-soon.gif)
 
 <h1 align="center">Hi 👋, I'm Nowsath</h1>
-<h3 align="center">A passionate Fullstack developer(MERN) from India</h3>
+<h3 align="center">A passionate Fullstack developer from India</h3>
 
 <img align="right" alt="Coding" width=600 src="https://miro.medium.com/max/720/0*gqO3slLmGb4mUeje.gif">
 
