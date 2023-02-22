@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MERN (Advance)**
 
-- 👨‍💻 All of my projects are available at [https://lighthearted-gingersnap-60407a.netlify.app/](https://lighthearted-gingersnap-60407a.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://nowsath.netlify.app](https://nowsath.netlify.app)
 
 - 💬 Ask me about anything, I am always happy to help
 
