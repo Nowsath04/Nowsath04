@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Nowsath</h1>
 <h3 align="center">A passionate Fullstack developer from India</h3>
 
-<img align="right" alt="Coding" width=500 src="https://miro.medium.com/max/720/0*gqO3slLmGb4mUeje.gif">
+<img align="right" alt="Coding" width=350 src="https://media.tenor.com/InFQMTzhXrYAAAAi/crown-jubilee.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nowsath04&label=Profile%20views&color=0e75b6&style=flat" alt="Nowsath04"> </p>
 
