@@ -3,8 +3,6 @@
 <h1 align="center">Hi 👋, I'm Nowsath</h1>
 <h3 align="center">A passionate Fullstack developer from India</h3>
 
-<img align="right" alt="Coding" width=350 src="https://media.tenor.com/InFQMTzhXrYAAAAi/crown-jubilee.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nowsath04&label=Profile%20views&color=0e75b6&style=flat" alt="Nowsath04"> </p>
 
 - 🌱 I’m currently learning **MERN (Advance)**
