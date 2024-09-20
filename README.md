@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **MERN (Advance)**
 
-- 👨‍💻 All of my projects are available at [https://nowsath.netlify.app](https://nowsath.netlify.app)
-
 - 💬 Ask me about anything, I am always happy to help
 
 - 📫 reach me on **nowsathnichu@gmail.com**
@@ -19,7 +17,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nowsath-a-66a0b9255" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nowsath-a-66a0b9255" height="30" width="40" /></a>
 <a href="https://instagram.com/nowsath___nichu____" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nowsath___nichu____" height="30" width="40" /></a>
 </p>
 
